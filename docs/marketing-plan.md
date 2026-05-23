@@ -33,7 +33,7 @@ Steps:
    - Customized music lessons
 6. Add a short description:
 
-Blanc's Music Studios is a family-run Suzuki violin and piano studio in Thornhill, Ontario. Jean (John) Blanc teaches Suzuki violin and Rose-Marie Blanc teaches Suzuki piano, offering a coordinated child-centred learning path for very young beginners, families, students preparing for Royal Conservatory of Music goals, and children who may benefit from flexible study options such as ukulele or guitar.
+Blanc's Music Studios is a family-run Suzuki violin and piano studio in Thornhill, Ontario. Jean (John) Blanc teaches Suzuki violin and Rose-Marie Blanc teaches Suzuki piano, offering a coordinated, kind, and encouraging learning path for very young beginners, families, students preparing for Royal Conservatory of Music goals, and children who may benefit from flexible study options such as ukulele or guitar.
 
 7. Add photos:
    - Teacher portraits
@@ -76,6 +76,8 @@ Best review topics:
 - Suzuki violin
 - Young beginners
 - Child-centred teaching
+- Kind, patient, encouraging teachers
+- Children enjoying the program and wanting to continue
 - Parent involvement
 - RCM preparation
 - Flexible lessons, ukulele, or guitar exploration
@@ -140,7 +142,7 @@ Steps:
 
 Best message:
 
-Blanc's Music Studios offers Suzuki piano and violin lessons in Thornhill for very young beginners and families. Jean (John) Blanc and Rose-Marie Blanc bring decades of child-centred Suzuki teaching, Royal Conservatory affiliation, and a rare piano-plus-violin family studio environment.
+Blanc's Music Studios offers Suzuki piano and violin lessons in Thornhill for very young beginners and families. Jean (John) Blanc and Rose-Marie Blanc bring decades of kind, encouraging Suzuki teaching, Royal Conservatory affiliation, and a rare piano-plus-violin family studio environment.
 
 Success target:
 
@@ -168,6 +170,7 @@ Content ideas:
 - Piano and violin under one family studio.
 - Beethoven Society founder story: nearly 40 years of GTA music education, concerts, scholarships, and young artist support.
 - How parents help with practice.
+- Why encouragement matters for long-term musical interest.
 - RCM and Suzuki: how they can work together.
 - Teacher story: Jean (John) Blanc.
 - Teacher story: Rose-Marie Blanc.

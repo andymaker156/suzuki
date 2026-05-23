@@ -33,7 +33,7 @@ This differentiates the studio from individual instrument teachers, larger lesso
 - Jean received violin training from the University of Bucharest.
 - Jean has devoted more than 30 years to teaching at Beverley Acres.
 - Jean and Rose-Marie have devoted more than 30 years to teaching and performing.
-- Their shared strength is a caring, child-centred approach that has served generations of BAPS musicians.
+- Their shared strength is a caring, child-centred, encouraging approach that has served generations of BAPS musicians and helps students enjoy the program.
 - The Beethoven Society for Pianists website identifies Rose-Marie and Jean Blanc as founders.
 - Canadian charity listings for Beethoven Society for Pianists, Greater Toronto Chapter connect the organization to the same Thornhill address, phone, and email, and list Mr. Jean Blanc as chairman.
 - The Society describes the Greater Toronto Chapter as supporting young musical talent in the GTA since 1986, making 2026 its 40th year of community activity.
@@ -77,6 +77,7 @@ Priority customer segments:
 7. BAPS and Beverley Acres history.
 8. Local Thornhill credibility with service to nearby GTA communities.
 9. Flexible customization for each student's interests, including ukulele or guitar when that helps keep the child engaged.
+10. A kind, patient, encouraging teaching style that helps children build confidence and long-term interest in music.
 
 ## Website Messaging
 
@@ -86,7 +87,7 @@ Homepage sections:
 - Proof bar: violin + piano + flexible, early Suzuki start, recognized teachers.
 - Programs: Suzuki violin, Suzuki piano, combined family study, RCM preparation, ukulele and guitar options.
 - Teachers: Jean (John) Blanc and Rose-Marie Blanc biographies.
-- Approach: start very young, build the practice team, develop technique, add reading and goals.
+- Approach: start very young, encourage the student, develop technique, add reading and goals.
 - Business profile: what makes the studio distinctive.
 - Affiliated community impact: Beethoven Society founders, nearly 40 years of GTA music support, concerts, scholarships, masterclasses, and Stars of Tomorrow events.
 - Reputation proof: Allison Leyton-Brown bio and Lumiere Solitaire dedication.
@@ -137,6 +138,8 @@ Use:
 - "very young beginners"
 - "age 3 or under"
 - "child-centred"
+- "kind and encouraging"
+- "patient and supportive"
 - "coordinated learning path"
 - "flexible music study"
 - "ukulele and guitar options"
