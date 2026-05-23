@@ -406,6 +406,32 @@ p {
   font-weight: 800;
 }
 
+.search-profile {
+  background: #e9dfd1;
+}
+
+.search-profile .section-heading p:not(.eyebrow) {
+  max-width: 850px;
+  color: var(--muted);
+  font-size: 1.05rem;
+}
+
+.keyword-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 10px;
+  margin-top: 30px;
+}
+
+.keyword-grid span {
+  padding: 12px 14px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--panel);
+  color: var(--green);
+  font-weight: 800;
+}
+
 .society-impact {
   display: grid;
   grid-template-columns: minmax(0, 0.8fr) minmax(0, 1.2fr);
@@ -539,6 +565,29 @@ p {
   color: var(--muted);
 }
 
+.faq {
+  background: var(--paper);
+}
+
+.faq-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 14px;
+}
+
+.faq-grid article {
+  min-height: 220px;
+  padding: 24px;
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  background: var(--panel);
+  box-shadow: 0 14px 35px rgba(34, 53, 42, 0.08);
+}
+
+.faq-grid p {
+  color: var(--muted);
+}
+
 .contact {
   display: grid;
   grid-template-columns: minmax(0, 1fr) minmax(280px, 420px);
@@ -642,6 +691,7 @@ footer a {
   .reputation,
   .reputation-grid,
   .reference-grid,
+  .faq-grid,
   .contact {
     grid-template-columns: 1fr;
   }

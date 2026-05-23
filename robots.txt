@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://andymaker156.github.io/suzuki/sitemap.xml
