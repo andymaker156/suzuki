@@ -15,7 +15,7 @@ Steps:
 3. Add complete contact details:
    - 21 Thorne Lane, Thornhill, Ontario L3T 5K6
    - 905-731-5336
-   - jean_blanc@hotmail.com
+   - jean_blanc@icloud.com
    - website URL once published
 4. Choose categories:
    - Primary: Music school or Music instructor

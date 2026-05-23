@@ -23,7 +23,7 @@ This differentiates the studio from individual instrument teachers, larger lesso
 - Both list affiliation with the Royal Conservatory of Music, Toronto.
 - Address: 21 Thorne Lane, Thornhill, Ontario, Canada, L3T 5K6.
 - Telephone/fax: 905-731-5336.
-- Email: jean_blanc@hotmail.com.
+- Email: jean_blanc@icloud.com.
 
 ## Additional Proof Points To Use Carefully
 
@@ -143,7 +143,7 @@ Avoid unless a direct testimonial says it:
 ## Missing Information To Collect
 
 - Confirm whether Google Business Profile should use the exact public name `Blanc's Music Studios`.
-- Whether the email `jean_blanc@hotmail.com` is still the preferred public inquiry email.
+- Whether the email `jean_blanc@icloud.com` is still the preferred public inquiry email.
 - Lesson format: in-studio only, online, or both.
 - Current availability and lesson days.
 - Teacher photos and studio photos.
