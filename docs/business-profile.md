@@ -77,7 +77,7 @@ Priority customer segments:
 Homepage sections:
 
 - Hero: "Suzuki piano and violin, taught by one experienced family studio."
-- Proof bar: violin + piano, early Suzuki start, recognized teachers, flexible growth.
+- Proof bar: violin + piano + flexible, early Suzuki start, recognized teachers.
 - Programs: Suzuki violin, Suzuki piano, combined family study, RCM preparation, ukulele and guitar options.
 - Teachers: Jean (John) Blanc and Rose-Marie Blanc biographies.
 - Approach: start very young, build the practice team, develop technique, add reading and goals.
