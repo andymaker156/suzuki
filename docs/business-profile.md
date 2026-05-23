@@ -36,11 +36,17 @@ This differentiates the studio from individual instrument teachers, larger lesso
 - Their shared strength is a caring, child-centred approach that has served generations of BAPS musicians.
 - The Beethoven Society for Pianists website identifies Rose-Marie and Jean Blanc as founders.
 - Canadian charity listings for Beethoven Society for Pianists, Greater Toronto Chapter connect the organization to the same Thornhill address, phone, and email, and list Mr. Jean Blanc as chairman.
+- The Society describes the Greater Toronto Chapter as supporting young musical talent in the GTA since 1986, making 2026 its 40th year of community activity.
+- Public program materials describe concerts, scholarships, workshops, and masterclasses.
+- Public events materials list recent recital activity and the `Stars of Tomorrow` series.
 
 ## Public Reference Links
 
 - Jean Blanc LinkedIn profile: https://ca.linkedin.com/in/jean-blanc-52901227
 - Beethoven Society for Pianists about page: https://www.beethovensocietytoronto.ca/about
+- Beethoven Society for Pianists home page: https://www.beethovensocietytoronto.ca/
+- Beethoven Society for Pianists programs page: https://www.beethovensocietytoronto.ca/programs
+- Beethoven Society for Pianists events page: https://www.beethovensocietytoronto.ca/events
 - My Charity Fund listing for Beethoven Society for Pianists, Greater Toronto Chapter: https://mycharityfund.ca/charity/75682/beethoven-society-for-pianists-greater-toronto-chapter
 - Canada Helps listing for Beethoven Society for Pianists: https://www.canadahelps.org/en/charities/beethoven-society-for-pianists/
 - Canadian Sinfonietta Community Chamber Concerts bios: https://canadiansinfonietta.com/community-chamber-concerts/
@@ -82,6 +88,7 @@ Homepage sections:
 - Teachers: Jean (John) Blanc and Rose-Marie Blanc biographies.
 - Approach: start very young, build the practice team, develop technique, add reading and goals.
 - Business profile: what makes the studio distinctive.
+- Affiliated community impact: Beethoven Society founders, nearly 40 years of GTA music support, concerts, scholarships, masterclasses, and Stars of Tomorrow events.
 - Reputation proof: Allison Leyton-Brown bio and Lumiere Solitaire dedication.
 - Contact: phone, email, address, inquiry guidance.
 

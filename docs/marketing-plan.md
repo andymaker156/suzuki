@@ -98,6 +98,8 @@ Steps:
 2. Keep the public reference links visible on the homepage:
    - Jean Blanc LinkedIn profile
    - Beethoven Society for Pianists about page
+   - Beethoven Society for Pianists programs page
+   - Beethoven Society for Pianists events page
    - My Charity Fund listing for Beethoven Society for Pianists
    - Canadian Sinfonietta performer bios
    - Allison Leyton-Brown official bio
@@ -164,6 +166,7 @@ Content ideas:
 
 - What makes Suzuki different for a 3-year-old beginner.
 - Piano and violin under one family studio.
+- Beethoven Society founder story: nearly 40 years of GTA music education, concerts, scholarships, and young artist support.
 - How parents help with practice.
 - RCM and Suzuki: how they can work together.
 - Teacher story: Jean (John) Blanc.
