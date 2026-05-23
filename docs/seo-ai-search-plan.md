@@ -2,7 +2,7 @@
 
 ## Primary Goal
 
-Help parents searching in Thornhill, Richmond Hill, Markham, North York, Vaughan, and the Greater Toronto Area find Blanc's Music Studios for Suzuki piano, Suzuki violin, RCM preparation, young-child music lessons, and flexible ukulele or guitar options.
+Help parents searching in Thornhill, Richmond Hill, Markham, North York, Vaughan, and the Greater Toronto Area find Blanc's Music Studio for Suzuki piano, Suzuki violin, RCM preparation, young-child music lessons, and flexible ukulele or guitar options.
 
 ## Current Website SEO Improvements
 
@@ -32,7 +32,7 @@ Help parents searching in Thornhill, Richmond Hill, Markham, North York, Vaughan
 
 AI search systems tend to prefer clear entities, structured facts, and source-backed claims. The site should keep these signals consistent:
 
-- Entity name: `Blanc's Music Studios`.
+- Entity name: `Blanc's Music Studio`.
 - Teachers: `Jean (John) Blanc` and `Rose-Marie Blanc`.
 - Location: `21 Thorne Lane, Thornhill, Ontario L3T 5K6`.
 - Contact: `905-731-5336`, `jean_blanc@icloud.com`.
@@ -41,7 +41,7 @@ AI search systems tend to prefer clear entities, structured facts, and source-ba
 
 ## Next SEO Steps
 
-1. Create a verified Google Business Profile using the exact name `Blanc's Music Studios`.
+1. Create a verified Google Business Profile using the exact name `Blanc's Music Studio`.
 2. Add the website, phone, iCloud email, service categories, and photos.
 3. Request parent/alumni Google reviews that mention real services naturally.
 4. Add dedicated pages later:

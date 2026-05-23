@@ -1,4 +1,4 @@
-# Blanc's Music Studios Marketing Plan
+# Blanc's Music Studio Marketing Plan
 
 ## Goal
 
@@ -11,7 +11,7 @@ This is the highest priority because parents searching on Google Maps or Google 
 Steps:
 
 1. Claim or create the Google Business Profile.
-2. Use the real-world name consistently: `Blanc's Music Studios`.
+2. Use the real-world name consistently: `Blanc's Music Studio`.
 3. Add complete contact details:
    - 21 Thorne Lane, Thornhill, Ontario L3T 5K6
    - 905-731-5336
@@ -33,7 +33,7 @@ Steps:
    - Customized music lessons
 6. Add a short description:
 
-Blanc's Music Studios is a family-run Suzuki violin and piano studio in Thornhill, Ontario. Jean (John) Blanc teaches Suzuki violin and Rose-Marie Blanc teaches Suzuki piano, offering a coordinated, kind, and encouraging learning path for very young beginners, families, students preparing for Royal Conservatory of Music goals, and children who may benefit from flexible study options such as ukulele or guitar.
+Blanc's Music Studio is a family-run Suzuki violin and piano studio in Thornhill, Ontario. Jean (John) Blanc teaches Suzuki violin and Rose-Marie Blanc teaches Suzuki piano, offering a coordinated, kind, and encouraging learning path for very young beginners, families, students preparing for Royal Conservatory of Music goals, and children who may benefit from flexible study options such as ukulele or guitar.
 
 7. Add photos:
    - Teacher portraits
@@ -68,7 +68,7 @@ Steps:
 
 Review request message:
 
-Hello, we are updating the online profile for Blanc's Music Studios so local families can find Jean and Rose-Marie more easily. If your family had a positive experience with Suzuki piano, Suzuki violin, RCM preparation, customized lessons, BAPS, or lessons at Beverley Acres, would you be willing to leave an honest Google review? A few specific details about your child or family's experience would be very helpful.
+Hello, we are updating the online profile for Blanc's Music Studio so local families can find Jean and Rose-Marie more easily. If your family had a positive experience with Suzuki piano, Suzuki violin, RCM preparation, customized lessons, BAPS, or lessons at Beverley Acres, would you be willing to leave an honest Google review? A few specific details about your child or family's experience would be very helpful.
 
 Best review topics:
 
@@ -142,7 +142,7 @@ Steps:
 
 Best message:
 
-Blanc's Music Studios offers Suzuki piano and violin lessons in Thornhill for very young beginners and families. Jean (John) Blanc and Rose-Marie Blanc bring decades of kind, encouraging Suzuki teaching, Royal Conservatory affiliation, and a rare piano-plus-violin family studio environment.
+Blanc's Music Studio offers Suzuki piano and violin lessons in Thornhill for very young beginners and families. Jean (John) Blanc and Rose-Marie Blanc bring decades of kind, encouraging Suzuki teaching, Royal Conservatory affiliation, and a rare piano-plus-violin family studio environment.
 
 Success target:
 

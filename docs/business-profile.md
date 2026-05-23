@@ -1,8 +1,8 @@
-# Blanc's Music Studios Business Profile
+# Blanc's Music Studio Business Profile
 
 ## Positioning
 
-Blanc's Music Studios should be promoted as a rare family-run Suzuki studio in Thornhill where families can study both violin and piano under one coordinated, child-centred teaching philosophy. The studio can also support children who want to explore ukulele or guitar, making the lesson path more flexible and better suited to long-term musical interest.
+Blanc's Music Studio should be promoted as a rare family-run Suzuki studio in Thornhill where families can study both violin and piano under one coordinated, child-centred teaching philosophy. The studio can also support children who want to explore ukulele or guitar, making the lesson path more flexible and better suited to long-term musical interest.
 
 The strongest message is:
 
@@ -127,7 +127,7 @@ Google Business Profile categories:
 
 Suggested Google profile description:
 
-Blanc's Music Studios is a family-run Suzuki violin and piano studio in Thornhill, Ontario. Jean (John) Blanc teaches Suzuki violin and Rose-Marie Blanc teaches Suzuki piano, offering a coordinated child-centred learning path for very young beginners, BAPS families, Suzuki students, students preparing for Royal Conservatory of Music goals, and children who may benefit from flexible study options such as ukulele or guitar.
+Blanc's Music Studio is a family-run Suzuki violin and piano studio in Thornhill, Ontario. Jean (John) Blanc teaches Suzuki violin and Rose-Marie Blanc teaches Suzuki piano, offering a coordinated child-centred learning path for very young beginners, BAPS families, Suzuki students, students preparing for Royal Conservatory of Music goals, and children who may benefit from flexible study options such as ukulele or guitar.
 
 ## Copy Rules
 
@@ -159,7 +159,7 @@ Avoid unless a direct testimonial says it:
 
 ## Missing Information To Collect
 
-- Confirm whether Google Business Profile should use the exact public name `Blanc's Music Studios`.
+- Confirm whether Google Business Profile should use the exact public name `Blanc's Music Studio`.
 - Whether the email `jean_blanc@icloud.com` is still the preferred public inquiry email.
 - Lesson format: in-studio only, online, or both.
 - Current availability and lesson days.

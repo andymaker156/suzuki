@@ -1,6 +1,6 @@
-# Blanc's Music Studios
+# Blanc's Music Studio
 
-Blanc's Music Studios is a family-run music studio in Thornhill, Ontario, serving families in Thornhill, Richmond Hill, Markham, North York, Vaughan, and the Greater Toronto Area.
+Blanc's Music Studio is a family-run music studio in Thornhill, Ontario, serving families in Thornhill, Richmond Hill, Markham, North York, Vaughan, and the Greater Toronto Area.
 
 Website: https://andymaker156.github.io/suzuki/
 Phone: 905-731-5336
