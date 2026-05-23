@@ -2,7 +2,7 @@
 
 ## Goal
 
-Generate qualified inquiries from parents in Thornhill, Richmond Hill, Markham, North York, and the Greater Toronto Area who are looking for Suzuki piano lessons, Suzuki violin lessons, RCM preparation, or music lessons for very young children.
+Generate qualified inquiries from parents in Thornhill, Richmond Hill, Markham, North York, and the Greater Toronto Area who are looking for Suzuki piano lessons, Suzuki violin lessons, RCM preparation, flexible music lessons, or music lessons for very young children.
 
 ## Priority 1: Google Business Profile
 
@@ -28,9 +28,12 @@ Steps:
    - RCM piano preparation
    - RCM violin preparation
    - Combined piano and violin lessons for families
+   - Ukulele lessons for kids
+   - Guitar lessons for kids
+   - Customized music lessons
 6. Add a short description:
 
-Blanc's Music Studios is a family-run Suzuki violin and piano studio in Thornhill, Ontario. Jean (John) Blanc teaches Suzuki violin and Rose-Marie Blanc teaches Suzuki piano, offering a coordinated child-centred learning path for very young beginners, families, and students preparing for Royal Conservatory of Music goals.
+Blanc's Music Studios is a family-run Suzuki violin and piano studio in Thornhill, Ontario. Jean (John) Blanc teaches Suzuki violin and Rose-Marie Blanc teaches Suzuki piano, offering a coordinated child-centred learning path for very young beginners, families, students preparing for Royal Conservatory of Music goals, and children who may benefit from flexible study options such as ukulele or guitar.
 
 7. Add photos:
    - Teacher portraits
@@ -42,6 +45,7 @@ Blanc's Music Studios is a family-run Suzuki violin and piano studio in Thornhil
    - "Now accepting inquiries for Suzuki piano and violin lessons"
    - "How Suzuki supports very young beginners"
    - "Piano and violin lessons for siblings"
+   - "Flexible music lessons for children interested in ukulele or guitar"
 
 Success target:
 
@@ -64,7 +68,7 @@ Steps:
 
 Review request message:
 
-Hello, we are updating the online profile for Blanc's Music Studios so local families can find Jean and Rose-Marie more easily. If your family had a positive experience with Suzuki piano, Suzuki violin, RCM preparation, BAPS, or lessons at Beverley Acres, would you be willing to leave an honest Google review? A few specific details about your child or family's experience would be very helpful.
+Hello, we are updating the online profile for Blanc's Music Studios so local families can find Jean and Rose-Marie more easily. If your family had a positive experience with Suzuki piano, Suzuki violin, RCM preparation, customized lessons, BAPS, or lessons at Beverley Acres, would you be willing to leave an honest Google review? A few specific details about your child or family's experience would be very helpful.
 
 Best review topics:
 
@@ -74,6 +78,7 @@ Best review topics:
 - Child-centred teaching
 - Parent involvement
 - RCM preparation
+- Flexible lessons, ukulele, or guitar exploration
 - BAPS or Beverley Acres history
 - Thornhill, Richmond Hill, Markham, or GTA
 
@@ -109,6 +114,7 @@ FAQ topics:
 - What is the parent's role?
 - Can siblings study piano and violin at the same studio?
 - How does Suzuki connect to RCM?
+- Can a child explore ukulele or guitar if their interests expand?
 - Is the studio best for beginners, advanced students, or both?
 - How do families inquire about availability?
 

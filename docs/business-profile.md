@@ -2,11 +2,11 @@
 
 ## Positioning
 
-Blanc's Music Studios should be promoted as a rare family-run Suzuki studio in Thornhill where families can study both violin and piano under one coordinated, child-centred teaching philosophy.
+Blanc's Music Studios should be promoted as a rare family-run Suzuki studio in Thornhill where families can study both violin and piano under one coordinated, child-centred teaching philosophy. The studio can also support children who want to explore ukulele or guitar, making the lesson path more flexible and better suited to long-term musical interest.
 
 The strongest message is:
 
-> Suzuki piano and violin for very young beginners, taught by Jean (John) Blanc and Rose-Marie Blanc in one experienced family studio.
+> Suzuki piano and violin for very young beginners, with flexible music study options including ukulele and guitar, taught by Jean (John) Blanc and Rose-Marie Blanc in one experienced family studio.
 
 This differentiates the studio from individual instrument teachers, larger lesson marketplaces, and schools that offer many instruments but no clear Suzuki specialization.
 
@@ -58,6 +58,7 @@ Priority customer segments:
 - Parents who know the Suzuki name and want trained Suzuki teachers.
 - Families who want a warm beginning but still care about RCM exams later.
 - Parents looking for long-term teacher continuity rather than a high-turnover lesson school.
+- Children who may start with Suzuki piano or violin but later want to explore ukulele, guitar, or a more customized musical path.
 
 ## Core Selling Points
 
@@ -69,14 +70,15 @@ Priority customer segments:
 6. Former-student credibility through award-winning composer Allison Leyton-Brown, who studied with Rose-Marie for 17 years and dedicated a published composition to Rose-Marie and Jean.
 7. BAPS and Beverley Acres history.
 8. Local Thornhill credibility with service to nearby GTA communities.
+9. Flexible customization for each student's interests, including ukulele or guitar when that helps keep the child engaged.
 
 ## Website Messaging
 
 Homepage sections:
 
 - Hero: "Suzuki piano and violin, taught by one experienced family studio."
-- Proof bar: violin + piano, early Suzuki start, recognized teachers.
-- Programs: Suzuki violin, Suzuki piano, combined family study, RCM preparation.
+- Proof bar: violin + piano, early Suzuki start, recognized teachers, flexible growth.
+- Programs: Suzuki violin, Suzuki piano, combined family study, RCM preparation, ukulele and guitar options.
 - Teachers: Jean (John) Blanc and Rose-Marie Blanc biographies.
 - Approach: start very young, build the practice team, develop technique, add reading and goals.
 - Business profile: what makes the studio distinctive.
@@ -104,6 +106,9 @@ Primary local keywords:
 - RCM piano teacher Thornhill
 - music lessons for 3 year olds Thornhill
 - music lessons for young children GTA
+- ukulele lessons Thornhill
+- guitar lessons for kids Thornhill
+- flexible music lessons Thornhill
 
 Google Business Profile categories:
 
@@ -114,7 +119,7 @@ Google Business Profile categories:
 
 Suggested Google profile description:
 
-Blanc's Music Studios is a family-run Suzuki violin and piano studio in Thornhill, Ontario. Jean (John) Blanc teaches Suzuki violin and Rose-Marie Blanc teaches Suzuki piano, offering a coordinated child-centred learning path for very young beginners, BAPS families, Suzuki students, and students preparing for Royal Conservatory of Music goals.
+Blanc's Music Studios is a family-run Suzuki violin and piano studio in Thornhill, Ontario. Jean (John) Blanc teaches Suzuki violin and Rose-Marie Blanc teaches Suzuki piano, offering a coordinated child-centred learning path for very young beginners, BAPS families, Suzuki students, students preparing for Royal Conservatory of Music goals, and children who may benefit from flexible study options such as ukulele or guitar.
 
 ## Copy Rules
 
@@ -126,6 +131,8 @@ Use:
 - "age 3 or under"
 - "child-centred"
 - "coordinated learning path"
+- "flexible music study"
+- "ukulele and guitar options"
 - "SAO, SAA, and ISA"
 - "Royal Conservatory of Music, Toronto"
 - "Beethoven Society for Pianists"
