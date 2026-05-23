@@ -41,7 +41,7 @@ a {
   align-items: center;
   justify-content: space-between;
   gap: 24px;
-  padding: 14px clamp(18px, 5vw, 64px);
+  padding: 14px clamp(30px, 5vw, 72px);
   border-bottom: 1px solid rgba(217, 208, 194, 0.85);
   background: rgba(248, 244, 236, 0.92);
   backdrop-filter: blur(16px);
@@ -101,7 +101,7 @@ nav a:focus-visible {
 
 .hero {
   position: relative;
-  min-height: 680px;
+  min-height: 660px;
   display: grid;
   align-items: end;
   overflow: hidden;
@@ -113,8 +113,8 @@ nav a:focus-visible {
   inset: 0;
   z-index: -1;
   background:
-    linear-gradient(90deg, rgba(23, 32, 27, 0.86) 0%, rgba(23, 32, 27, 0.72) 38%, rgba(23, 32, 27, 0.18) 72%),
-    linear-gradient(0deg, rgba(23, 32, 27, 0.72), transparent 42%);
+    linear-gradient(90deg, rgba(23, 32, 27, 0.82) 0%, rgba(23, 32, 27, 0.68) 42%, rgba(23, 32, 27, 0.12) 78%),
+    linear-gradient(0deg, rgba(23, 32, 27, 0.66), transparent 42%);
   content: "";
 }
 
@@ -125,11 +125,12 @@ nav a:focus-visible {
   width: 100%;
   height: 100%;
   object-fit: cover;
+  object-position: center center;
 }
 
 .hero-content {
-  width: min(720px, calc(100% - 36px));
-  margin: 0 0 clamp(46px, 10vw, 92px) clamp(18px, 8vw, 92px);
+  width: min(720px, calc(100% - 72px));
+  margin: 0 0 clamp(46px, 10vw, 92px) clamp(36px, 8vw, 96px);
   color: #fffaf2;
 }
 
@@ -148,13 +149,18 @@ nav a:focus-visible {
 
 h1,
 h2,
-h3,
-p {
+h3 {
+  overflow-wrap: normal;
+  text-wrap: balance;
+}
+
+p,
+a {
   overflow-wrap: anywhere;
 }
 
 h1 {
-  max-width: 12ch;
+  max-width: 13ch;
   margin: 0;
   font-family: Georgia, "Times New Roman", serif;
   font-size: clamp(3rem, 7vw, 5.8rem);
@@ -259,7 +265,7 @@ p {
 }
 
 .section {
-  padding: clamp(64px, 9vw, 112px) clamp(18px, 6vw, 80px);
+  padding: clamp(64px, 9vw, 112px) clamp(30px, 6vw, 88px);
 }
 
 .split {
@@ -490,7 +496,7 @@ p {
   grid-template-columns: minmax(0, 1fr) minmax(280px, 420px);
   gap: clamp(30px, 6vw, 72px);
   align-items: center;
-  padding: clamp(64px, 9vw, 112px) clamp(18px, 6vw, 80px);
+  padding: clamp(64px, 9vw, 112px) clamp(30px, 6vw, 88px);
   background: #e9dfd1;
 }
 
@@ -534,7 +540,7 @@ footer {
   display: flex;
   justify-content: space-between;
   gap: 20px;
-  padding: 24px clamp(18px, 6vw, 80px);
+  padding: 24px clamp(30px, 6vw, 88px);
   background: var(--ink);
   color: rgba(255, 250, 242, 0.8);
 }
@@ -560,16 +566,17 @@ footer a {
   }
 
   .hero {
-    min-height: 720px;
+    min-height: 700px;
   }
 
   .hero::before {
     background:
-      linear-gradient(0deg, rgba(23, 32, 27, 0.88) 0%, rgba(23, 32, 27, 0.68) 56%, rgba(23, 32, 27, 0.18) 100%),
-      linear-gradient(90deg, rgba(23, 32, 27, 0.55), transparent);
+      linear-gradient(0deg, rgba(23, 32, 27, 0.88) 0%, rgba(23, 32, 27, 0.66) 58%, rgba(23, 32, 27, 0.1) 100%),
+      linear-gradient(90deg, rgba(23, 32, 27, 0.48), transparent);
   }
 
   .hero-content {
+    width: min(640px, calc(100% - 64px));
     margin: 0 auto 42px;
   }
 
@@ -609,8 +616,8 @@ footer a {
   }
 
   nav a {
-    padding: 8px 6px;
-    font-size: 0.86rem;
+    padding: 8px 4px;
+    font-size: 0.8rem;
   }
 
   h1 {
@@ -619,12 +626,12 @@ footer a {
   }
 
   .hero-content {
-    width: min(320px, calc(100% - 70px));
+    width: calc(100% - 64px);
   }
 
   .hero-content p:not(.eyebrow) {
-    max-width: 270px;
-    font-size: 1rem;
+    max-width: 19rem;
+    font-size: 0.98rem;
     line-height: 1.6;
   }
 
