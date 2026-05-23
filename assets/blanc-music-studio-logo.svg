@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200" role="img" aria-labelledby="title desc">
+  <title id="title">Blanc's Music Studio logo</title>
+  <desc id="desc">A refined square logo mark with a letter B for Blanc's Music Studio.</desc>
+  <rect width="1200" height="1200" fill="#f8f4ec"/>
+  <circle cx="600" cy="500" r="300" fill="#334c3d"/>
+  <text x="600" y="596" text-anchor="middle" fill="#fffaf2" font-family="Georgia, 'Times New Roman', serif" font-size="330" font-weight="700">B</text>
+  <path d="M316 860h568" stroke="#b98a46" stroke-width="18" stroke-linecap="round"/>
+  <text x="600" y="950" text-anchor="middle" fill="#17201b" font-family="Georgia, 'Times New Roman', serif" font-size="70" font-weight="700">Blanc's</text>
+  <text x="600" y="1035" text-anchor="middle" fill="#334c3d" font-family="Arial, Helvetica, sans-serif" font-size="46" font-weight="700" letter-spacing="5">MUSIC STUDIO</text>
+</svg>
